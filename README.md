@@ -9,3 +9,5 @@ Here are my programming and web development certifications:
 - [Introduction to CSS: Complete Beginner to Expert Course – Udemy](https://www.udemy.com/course/learn-css-course/)
 - [The Ultimate React Course 2025: React, Next.js, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
 - [The Complete JavaScript Course 2025: From Zero to Expert](https://www.udemy.com/course/the-complete-javascript-course/)
+
+And many more to come!
